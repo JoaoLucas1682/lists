@@ -1,0 +1,3 @@
+chrome-search://local-ntp/local-ntp.html
+edge://discover-chat-v2/
+edge://split-window-starting-page/
