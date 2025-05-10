@@ -1,0 +1,14 @@
+# for joaolucas1682/lists
+
+*.bak
+dontinclude/
+temp/
+venv/
+.env
+*.log
+*.backup
+.htpasswd
+.htacess
+.DS_Store
+
+System Volume Information
